@@ -61,14 +61,14 @@ const App = () => {
       <Text style={styles.title}>Calculadora de Diferença de Dias</Text>
       <TextInput
         style={styles.input}
-        placeholder="Digite a primeira data (dd/mm/aaaa)"
+        placeholder="Digite a primeira data"
         placeholderTextColor="#ccc"
         value={date1}
         onChangeText={handleDate1Change}
       />
       <TextInput
         style={styles.input}
-        placeholder="Digite a segunda data (dd/mm/aaaa)"
+        placeholder="Digite a segunda data"
         placeholderTextColor="#ccc"
         value={date2}
         onChangeText={handleDate2Change}
