@@ -1,6 +1,6 @@
 # DayDifferenceApp
 
-An application that takes two dates and calculates the difference between them in days
+An application that takes two dates and calculates the difference between them in days.
 
 ##### 📱:App
 
